@@ -1,0 +1,8 @@
+this is the first file added to git,wait I added a file and then staged it and removed by rm and commited it and created new file 
+
+
+
+
+
+
+
